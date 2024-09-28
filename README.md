@@ -29,3 +29,6 @@ After the game ends, the final result is displayed, and the player can choose to
 In the first four rounds, the player can choose to swap up to three cards to improve their hand. Swapping is not allowed in the fifth round because only two cards will be left in the deck.
 If the player chooses to swap cards, the computer will also decide whether to swap cards based on its hand.
 This game is structured using Object-Oriented Programming (OOP) methods to ensure code maintainability and extensibility. Players can enjoy the classic poker game through a simple and intuitive Graphical User Interface (GUI).
+
+![image](https://github.com/user-attachments/assets/a0e025c4-8bc0-409e-b24a-f9c3ae96a9b9)
+
